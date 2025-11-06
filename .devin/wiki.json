@@ -7,10 +7,6 @@
   ],
   "pages": [
     {
-      "title": "アニメーションチェック用途のmpv.net player環境まとめ",
-      "purpose": "全体像と運用背景、既存ツール(例：KeyframeMP)との比較含む日本語解説"
-    },
-    {
       "title": "mpv.conf/設定ファイル日本語解説＆推奨値",
       "purpose": "mpv.confとmpvnet.confの重要設定・専門的ポイントを詳説（記述例付き）"
     },
@@ -19,12 +15,16 @@
       "purpose": "LuaやOSCによるフレーム優先機能拡張や実装TIPS"
     },
     {
+      "title": "カスタムスクリプト&拡張を踏まえてのinput.confの推奨設定 ",
+      "purpose": "LuaやOSCのキーバインドとmpv.conf,mpvnet.confで設定した比較用の設定切り換えキー設定について"
+    },
+    {
       "title": "調査記録&現場ノウハウまとめ",
-      "purpose": "過去の検証・調査内容、エラー対応例などを日本語で分かりやすく整理"
+      "purpose": "過去の検証・調査内容、エラー対応例などをmpv公式ドキュメントから引用、日本語で分かりやすく整理"
     },
     {
       "title": "公式オプション解説日本語サマリー",
-      "purpose": "mpv原本ドキュメントや.rstの日本語訳・重要点まとめ"
+      "purpose": "mpv原本ドキュメントやDOCS/~.rstやmeson.options,meson.build等の日本語訳・重要点まとめ"
     }
   ]
 }
